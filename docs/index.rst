@@ -8,20 +8,28 @@ This is the landing page for Flows Project, generated as part of
 
 .. important::
 
-    Still in progress.
+   The project is still in progress.
+
+
+Introduction
+=============
+
+The :doc:`Introduction/index` section contains general introduction of the project
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :titlesonly:
 
-   /pages/brief-introduction
-   /pages/data-preparation
+    Introduction/index
 
-Quickstart
+Tutorial
 ===========
 
-Authors
-===========
+Currently we only have tutorial for visulization tool here:
 
-News
-===========
+The :doc:`visualization_tutorial/index` section contains pages with a tutorial of the visualization tool of the project
+
+.. toctree::
+    :titlesonly:
+
+    visualization_tutorial/index
+

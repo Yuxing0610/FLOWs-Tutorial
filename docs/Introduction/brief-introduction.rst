@@ -1,5 +1,5 @@
 =====================================
-Brief Introduction
+General Idea
 =====================================
 
 Recent advancements in AI have produced highly capable and controllable agents. This creates unprecedented opportunities for structured reasoning,collaborations among multiple agents, and interactions between agents and tools. 
