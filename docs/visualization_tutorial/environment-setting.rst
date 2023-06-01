@@ -29,7 +29,7 @@ You need to take the following steps to set up the visualization tool and run it
 
 .. Note:: For repeated runs
 
-   You only need to execute step 1 once, to have an image with the required dependencies. Step 2 can be repeated to create a container with updated frontend/ and backend/ code. The script will delete and overwrite an existing container, and uses the code from this repository. The last step needs to be executed every time you want to run the visualization.
+   You only need to execute step 2 once, to have an image with the required dependencies. Step 3 can be repeated to create a container with updated frontend/ and backend/ code. The script will delete and overwrite an existing container, and uses the code from this repository. The last step needs to be executed every time you want to run the visualization.
 
 
 Setup (Standard)
